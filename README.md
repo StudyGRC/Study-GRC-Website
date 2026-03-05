@@ -1,8 +1,7 @@
 # Study GRC Website
 
-# Study GRC Website
-
 ![HTML5](https://img.shields.io/badge/Made%20with-HTML5%20/%20CSS%20/%20JS-1f425f.svg?style=flat-square)
+![GitHub License](https://img.shields.io/github/license/StudyGRC/Study-GRC-Website)
 [![GitHub contributors](https://img.shields.io/github/contributors/StudyGRC/Study-GRC-Website.svg?style=flat-square)](https://github.com/StudyGRC/Study-GRC-Website/graphs/contributors)
 [![GitHub last commit](https://img.shields.io/github/last-commit/StudyGRC/Study-GRC-Website.svg?style=flat-square)](https://github.com/StudyGRC/Study-GRC-Website/commits/main)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
