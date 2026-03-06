@@ -1,3 +1,4 @@
-Contact: mailto:security@studygrc.org
-Expires: 2026-01-01T05:59:00.000Z
+Contact: mailto:contact@studygrc.org
+Expires: 2027-01-01T05:59:00.000Z
 Preferred-Languages: en
+
